@@ -3,6 +3,6 @@ resource "aws_instance" "name" {
 	instance_type = "t3.micro"
 
   tags = {
-    Name = "wnat to keep small name"
+    Name = "wnat to keep subtel name"
   }
 }
